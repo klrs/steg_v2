@@ -1,0 +1,10 @@
+G:\Programming\C#\steg_v2\steg_v2\bin\Debug\steg_v2.exe.config
+G:\Programming\C#\steg_v2\steg_v2\bin\Debug\steg_v2.exe
+G:\Programming\C#\steg_v2\steg_v2\bin\Debug\steg_v2.pdb
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.csprojResolveAssemblyReference.cache
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.Form1.resources
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.Properties.Resources.resources
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.csproj.GenerateResource.Cache
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.csproj.CoreCompileInputs.cache
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.exe
+G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.pdb
