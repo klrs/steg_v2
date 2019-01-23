@@ -8,3 +8,13 @@ G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.csproj.GenerateResource.Cach
 G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.csproj.CoreCompileInputs.cache
 G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.exe
 G:\Programming\C#\steg_v2\steg_v2\obj\Debug\steg_v2.pdb
+C:\PROGRAMMING\c#\steg_v2\steg_v2\bin\Debug\steg_v2.exe.config
+C:\PROGRAMMING\c#\steg_v2\steg_v2\bin\Debug\steg_v2.exe
+C:\PROGRAMMING\c#\steg_v2\steg_v2\bin\Debug\steg_v2.pdb
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.Form1.resources
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.Properties.Resources.resources
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.csproj.GenerateResource.Cache
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.exe
+C:\PROGRAMMING\c#\steg_v2\steg_v2\obj\Debug\steg_v2.pdb

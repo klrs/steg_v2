@@ -38,6 +38,7 @@ namespace steg_v2
             //CHANGE INTO ONE METHOD
             inputImg.imgToLSBArr();
             inputImg.matchBitArray();
+            (HideImg)inputImg.insertHeader();
             inputImg.createFile();
 
             return success;

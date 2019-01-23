@@ -10,7 +10,7 @@ namespace steg_v2
     class HideImg : StegImg
     {
         private Bitmap outputimg;
-        private byte[] inputfile;
+        private byte[] inputfile;   //Input file in bytes
         private BitArray ifilebits;
 
         public HideImg(String ipath)
@@ -85,6 +85,12 @@ namespace steg_v2
             }
             pixelcolor = Color.FromArgb(argb[0], argb[1], argb[2], argb[3]);
             return pixelcolor;
+        }
+        public void insertHeader()
+        {
+            double a = image.Height * image.Width * 3;
+            double exponents = Math.Log(a, 2);
+            Console.WriteLine(exponents);
         }
     }
 }

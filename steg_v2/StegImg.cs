@@ -11,7 +11,7 @@ namespace steg_v2
     {
         public Bitmap image { get; set; }
         public String outputpath { get; set; }
-        protected BitArray lsbarr;
+        protected BitArray lsbarr;  //BitArray of image's pixels' LSB's
         protected byte[] bytearr;
 
         public abstract void createFile();
