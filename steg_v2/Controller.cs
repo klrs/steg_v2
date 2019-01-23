@@ -6,6 +6,18 @@ namespace steg_v2
 {
     class Controller
     {
+        //256 x 171 img
+        //max bits 131 328 --> 16 416 bytes
+        //->2^15 bit header
+
+        //b = bittimäärä
+        //p = potenssi
+
+
+        //2^p >= b
+        //log2 b >= p
+
+
         public StegImg inputImg { get; set; }
 
         public bool Extract()
